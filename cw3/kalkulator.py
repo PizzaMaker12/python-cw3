@@ -1,6 +1,6 @@
 a = float(input("Podaj liczbe: "))
 b = float(input("Podaj 2 liczbe: "))
-c = input("Podaj operacje: + - / *: ")
+c = input("Podaj operacje: '+', '-',  '/',  '*' : ")
 
 match c:
     case "+":
